@@ -1,0 +1,60 @@
+/* create heading and background */
+html {
+  font-family: Trebuchet MS, Arial, serif;
+  
+}
+.bkg {
+  background-color: #caf3e7;
+}
+
+.header {
+  color: black; 
+  font-size: 8vw;
+  text-align: center;
+  padding: 30px 0px;
+  margin: 0px;
+}
+
+
+/* general text styles */
+h1 {
+  font-size: 5vw;
+  padding: 20px 0px 0px 30px;
+  margin: 0px
+}
+
+h2 {
+  font-size: 3.5vw;
+  padding: 20px 0px 0px 30px;
+  margin: 0px;
+}
+
+h3 {
+  font-size: 2vw;
+  padding: 20px 0px 0px 30px;
+  margin: 0px;
+}
+
+p {
+  font-size: 1.5vw;
+  padding: 10px 0px 10px 20px;
+  margin: 0px;
+}
+
+a {
+  font-style: normal;
+  text-decoration: none;
+  color: gray;
+}
+
+iframe {
+  padding: 0px 0px 0px 2vw
+}
+
+.window {
+    height: 500px;
+    overflow-y: scroll;
+    border: 5px;
+    border-color: black;
+}
+
